@@ -14,7 +14,7 @@ body {
 .header {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -421,6 +421,10 @@ dt {
   padding: 20px;
   text-align: center;
   font-family: "IBM Plex Mono", monospace;
+  
+  p {
+    font-size: 1.25rem;
+  }
 }
 
 /* Scroll Ativo */
